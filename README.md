@@ -1,2 +1,2 @@
 # bs2024-lecture
-The notes of the lecture Betriebssystem at LMU WS2024.
+My notes of the lecture Betriebssystem in LMU WS2024.
